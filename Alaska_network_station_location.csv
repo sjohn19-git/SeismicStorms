@@ -1,0 +1,882 @@
+Station Code,Station Name,Latitude,Longitude
+A19K,"Wainwright, AK, USA",70.2043,-161.0713
+A21K,"Barrow, AK, USA",71.3221,-156.6175
+A22K,"Sinclair Lake, AK, USA",71.0033,-154.9742
+ANM,"Anvil Mountain, AK, USA",64.5646,-165.3732
+ATKA,"Atka Island, AK, USA",52.201599,-174.197495
+B18K,"Kokolik River, AK, USA",69.3641,-161.8016
+B20K,"Meade River, AK, USA",70.0079,-157.1599
+B22K,"Teshekpuk Lake, AK, USA",70.34,-153.4196
+BAE,"Barry Arm East, AK, USA",61.1319,-148.1234
+BAGL,"Bagley Icefield, AK, USA",60.489601,-142.091507
+BAL,"Baldy Mountain, AK, USA",61.035999,-142.346207
+BARK,"Barkley Ridge, AK, USA",60.403,-142.493103
+BARN,"Barnard Glacier, AK, USA",61.059502,-141.662201
+BAT,"Barry Arm Top, AK, USA",61.1416,-148.1751
+BAW,"Barry Arm West, AK, USA",61.1501,-148.1501
+BCP,"Bancas Point, AK, USA",59.9534,-139.6369
+BERG,"Berg Lake, AK, USA",60.3932,-143.700394
+BESE,"Bessie Mountain, AK, USA",58.5792,-134.8559
+BGLC,"Bering Glacier BLM Camp, AK, USA",60.1205,-143.2841
+BMR,"Bremner River, AK, USA",60.9677,-144.6051
+BPAW,"Bear Paw Mountain, AK, USA",64.099701,-150.987305
+BRLK,"Bradley Lake, AK, USA",59.7511,-150.9063
+BRSE,"Bradley Lake South, AK, USA",59.741699,-150.741394
+BWN,"Browne, AK, USA",64.173203,-149.299103
+C16K,"Lisburne Hills, AK, USA",68.2746,-165.3436
+C18K,"Utukok River, AK, USA",68.6483,-161.1943
+C19K,"Lookout Ridge, AK, USA",69.1049,-159.5874
+C21K,"Knifeblade Ridge, AK, USA",69.1565,-154.7833
+C23K,"Itkillik River, AK, USA",69.836,-150.6126
+C26K,"Camden Bay, AK, USA",69.9175,-144.9122
+C27K,"Jago River, AK, USA",69.626,-143.7114
+CAPN,"Captain Cook Nikiski, AK, USA",60.768299,-151.1539
+CAST,"Castle Rocks, AK, USA",63.4188,-152.084396
+CCB,"Clear Creek Butte, AK, USA",64.6453,-147.8053
+CDVT,"Cordova Airport, AK, USA",60.493599,-145.469604
+CHI,"Chirikof Island, AK, USA",55.8218,-155.6225
+CHN,"Chernabura Island, AK, USA",54.831001,-159.589493
+CHUM,"Lake Minchumina, AK, USA",63.8827,-152.3152
+CHX,"Chaix Hills, AK, USA",60.063099,-141.117798
+CNP,"China Poot, AK, USA",59.5251,-151.2373
+COLD,"Coldfoot, AK, USA",67.2269,-150.2038
+CRQ,"Cirque, AK, USA",60.7523,-143.092606
+CTG,"Chitna Glacier, AK, USA",60.9649,-141.3401
+CUT,"Chulitna, AK, USA",62.4058,-150.2625
+CYK,"Cape Yakataga, AK, USA",60.082298,-142.487198
+D17K,"Noatak River, AK, USA",67.6988,-163.0831
+D20K,"Etivluk River, AK, USA",68.7132,-156.6132
+D22K,"Ayikyak River, AK, USA",68.8799,-152.6821
+D24K,"Happy Valley, AK, USA",69.1532,-148.8233
+D25K,"Kavik River, AK, USA",69.322,-146.3751
+DAM1,"Bradley Dam 1, AK, USA",59.7554,-150.8513
+DAM2,"Bradley Dam 2, AK, USA",59.755299,-150.855499
+DCPH,"Deception Hills, AK, USA",59.090599,-138.215393
+DDM,"Donnely Dome, AK, USA",63.786499,-145.865707
+DHY,"Denali Highway, AK, USA",63.0753,-147.3759
+DIV,"Divide Microwave, AK, USA",61.1292,-145.7749
+DOT,"Dot Lake, AK, USA",63.6487,-144.0674
+E18K,"Tukpahlearik Creek, AK, USA",67.4213,-160.6027
+E19K,"Redstone River, AK, USA",67.4572,-157.2316
+E21K,"Killik River, AK, USA",68.4414,-153.9721
+E22K,"Anaktuvuk Pass, AK, USA",68.1343,-151.8132
+E24K,"Your Creek, AK, USA",68.0748,-148.4868
+E25K,"Arctic Village, AK, USA",68.1207,-145.568
+E27K,"Coleen River, AK, USA",68.1861,-141.5951
+ER01,"Skyline Family Fellowship, Eagle River, AK, USA",61.3237,-149.5412
+ER02,"Eagle River Fire Station 11, Eagle River, AK, USA",61.3166,-149.5721
+ER03,"Homestead School, Eagle River (established by UAA)",61.3145,-149.5466
+ER04,"Fire Lake School, Eagle River (established by UAA)",61.3453,-149.5476
+EYAK,"Cordova Ski Area, AK, USA",60.548698,-145.75
+F15K,"North Star Ditch, AK, USA",65.7077,-164.6483
+F18K,"Selawik, AK, USA",66.6001,-159.6514
+F20K,"Avaraart Lake, AK, USA",67.0486,-155.7251
+F21K,"Alatna River, AK, USA",67.2221,-153.483
+FA01,"Chena-GS Fire Station, Fairbanks, AK, USA",64.834801,-147.937103
+FA02,"Ester Fire Station, AK, USA",64.845596,-148.009003
+FA05,"Denali Elem. School, Fairbanks, AK, USA",64.839302,-147.751602
+FA06,"Nordale Elem. School, Fairbanks, AK, USA",64.8461,-147.695694
+FA07,"Arctic Light Elem. School, Fairbanks, AK, USA",64.826698,-147.694595
+FA09,"DNR, Fairbanks, AK, USA",64.8377,-147.8172
+FA10,"Bus Barn, Fairbanks, AK, USA",64.818604,-147.778397
+FA11,"Cold Climate Housing Res. Cntr, Fairbanks, AK, USA",64.8536,-147.8382
+FA12,"Watershed School, Fairbanks, AK, USA",64.826897,-147.868393
+FALS,"False Pass, AK, USA",54.8564,-163.417603
+FIB,"Fire Island, AK, USA",61.1656,-150.177505
+FID,"Fidalgo, AK, USA",60.7277,-146.5987
+FIRE,"Fire Island, AK, USA",61.142601,-150.2164
+FYU,"Fort Yukon, AK, USA",66.565697,-145.234207
+G17K,"Kiwalik Mountain, AK, USA",65.5011,-160.6514
+G19K,"Purcell Mountains, AK, USA",66.1434,-157.087
+G23K,"Bananza Creek, AK, USA",66.7108,-150.0239
+G24K,"Hadweenzic River, AK, USA",66.7004,-147.4754
+G27K,"Doyon Strip, AK, USA",66.8088,-141.6549
+GAMB,"Gambell, AK, USA",63.775799,-171.703598
+GCSA,"Galena City School, AK, USA",64.7461,-156.8792
+GHO,"Gloryhole, AK, USA",61.771,-148.926
+GIB,"Geophysical Institute, Fairbanks, AK",64.859802,-147.849106
+GLB,"Gilahina Butte, AK, USA",61.4417,-143.8123
+GLI,"Glacier Island, AK, USA",60.8792,-147.095901
+GLM,"Gilmore Dome, AK, USA",64.987801,-147.399902
+GOAT,"Goat Mountain, AK, USA",60.580502,-144.729202
+GREN,Z,63.9738,-145.6949
+GRES,Z,63.9451,-145.7281
+GRIN,"Grindle Hills, AK, USA",60.2805,-143.321
+GRNC,"Granite Creek, AK, USA",60.731499,-141.755798
+H16K,"Elim, AK, USA",64.6379,-162.239
+H17K,"Granite Mountain, AK, USA",64.937,-159.9126
+H20K,"Anotleneega Mountain, AK, USA",65.4924,-154.8808
+H21K,"Melozitna River, AK, USA",65.6571,-152.805
+H22K,"Ishtalitna Creek, AK, USA",65.8937,-151.3773
+H23K,"Yukon River, AK, USA",65.8251,-149.5432
+H24K,"Noodor Dome, AK, USA",65.8371,-147.8781
+HARP,"HAARP, AK, USA",62.3986,-145.1567
+HDA,"Harding Lake, AK, USA",64.4095,-146.9477
+HIN,"Hinchinbrook, AK, USA",60.396,-146.503494
+HMT,"Hamilton, AK, USA",60.3351,-144.2623
+HOM,"Homer Trailer, AK, USA",59.6572,-151.6515
+HUR,"Hurricane, AK, USA",62.976799,-149.638794
+I21K,"Tanana, AK, USA",65.18,-151.9822
+I23K,"Minto, Yukon-Koyukuk, AK, USA",65.1479,-149.3603
+I26K,"Coal Creek Mining Camp, AK, USA",65.3064,-143.1541
+I27K,"Kandik River, AK, USA",65.6035,-141.6153
+ISLE,"Juniper Island, AK, USA",60.6024,-142.3406
+J17K,"VABM Dome, AK, USA",63.3965,-159.0777
+J19K,"Poorman, AK, USA",63.994,-155.6214
+J20K,"Nowitna River, AK, USA",64.1767,-154.1467
+J25K,"Salcha River, AK, USA",64.613,-145.3697
+J26L,"Joseph Creek, AK, USA",64.5012,-143.5636
+JIS,"Juneau Island, AK, USA",58.275799,-134.384796
+K13K,"Kusilvak Mountain, AK, USA",61.9331,-164.6555
+K15K,"Wolf Creek Mountain, AK, USA",62.2938,-161.5308
+K201,"Anchorage, High Lat Monitoring Station, AK, USA",61.234402,-149.871201
+K202,"Anchorage, Park and Recreation",61.223801,-149.809006
+K203,"Anchorage, St Christopher Episcopal Church, AK, US",61.2201,-149.7453
+K204,"Anchorage, Signature Flight Support, AK, USA",61.1758,-150.011505
+K205,"Anchorage, ASD Data Processing Center, AK, USA",61.1996,-149.913696
+K207,"Anchorage, FCC Office, AK, USA",61.159599,-150.004501
+K208,"Anchorage, Spenard Recreation Center, AK, USA",61.1763,-149.9216
+K209,"Anchorage, Scenic Park Bible Church, AK, USA",61.184601,-149.747192
+K20K,"Telida, AK, USA",63.3569,-154.07
+K210,"Anchorage, Mears Jr High School, AK, USA",61.1292,-149.931
+K211,"Anchorage, Fire Department HQ 12, AK, USA",61.149101,-149.857803
+K212,"Anchorage, BLM Office, AK, USA",61.155602,-149.793396
+K213,"Anchorage, ASD Operation Center, AK, USA",61.112801,-149.859497
+K214,"Anchorage, OMalley Fire Station, AK, USA",61.123501,-149.7677
+K215,"Anchorage, Rabbit Creek Fire Station, AK, USA",61.086201,-149.752106
+K216,"Anchorage, AT&T Surface and Borehole, AK, USA",61.0981,-149.6867
+K217,"Chugiak Fire Station, AK, USA",61.396,-149.515503
+K218,"Palmer, National Tsunami Warning Center, AK, USA",61.592602,-149.133194
+K220,"Anchorage, Kincaid Park, AK, USA",61.153999,-150.055206
+K221,"Anchorage, St. James Orthodox Church, AK, USA",61.1525,-149.951202
+K222,"Anchorage, Chapel by the Sea, AK, USA",61.087601,-149.836594
+K223,"Anchorage, Government Hill Elem. School, AK, USA",61.2338,-149.8675
+K24K,"Donnelly Dome, AK, USA",63.8036,-145.7784
+K27K,"Chicken, AK, USA",64.0292,-142.0758
+KAI,"Kayak Island, AK, USA",59.9268,-144.418793
+KHIT,"Khitrov Hills, AK, USA",60.442699,-143.251007
+KIAG,"Kiagna River, AK, USA",60.9231,-142.360504
+KLU,"Klutina Pass, AK, USA",61.4924,-145.9227
+KNK,"Knik Glacier, AK, USA",61.4131,-148.4585
+KOTZ,"Kotzebue, AK, USA",66.895103,-162.600006
+KTH,"Kantishna Hills, AK, USA",63.5527,-150.923294
+KULT,"Kultieth River Mtn, AK, USA",60.247398,-142.723404
+L14K,"Kuka Creek, AK, USA",61.3416,-162.6829
+L16K,"Owhat River, AK, USA",61.7105,-159.4747
+L17K,"Donlin, AK, USA",62.1344,-158.2972
+L18K,"Granite Mountain, AK, USA",62.2195,-156.6886
+L19K,"White Mountain, AK, USA",62.1816,-154.8543
+L20K,"Farewell, AK, USA",62.4787,-153.8798
+L22K,"Petersville, AK, USA",62.5258,-150.7703
+L26K,"Log Cabin Wilderness Lodge, Tok, AK, USA",63.0254,-143.3478
+LOGN,"Logan Glacier, AK, USA",60.824001,-141.004807
+M11K,"Mekoryuk, AK, USA",60.3849,-166.2011
+M14K,"Bethel, AK, USA",60.7515,-161.96
+M16K,"Timber Creek, AK, USA",61.0224,-158.9593
+M19K,"Big River Lodge, Big River, AK, USA",61.9037,-154.3915
+M20K,"Styx River, AK, USA",61.8823,-153.1318
+M23K,"Glacier View, AK, USA",61.7929,-147.7262
+M26K,"Nabesna, AK, USA",62.4013,-142.9963
+M27K,"Edge Creek, AK, USA",62.3579,-141.878
+MCAR,"McCarthy VSAT, AK, USA",61.3836,-143.024
+MCK,"McKinley Park, AK, USA",63.7318,-148.9373
+MDM,"Murphy Dome, AK, USA",64.9602,-148.2319
+MESA,"Mesa, AK, USA",60.178501,-141.9505
+MLY,"Manley Hot Springs, AK, USA",65.030403,-150.744202
+MS01,"Burchell High School, Wasilla (established by UAA)",61.5802,-149.4946
+MS02,"Houston High School, Houston (established by UAA)",61.5904,-149.7689
+MS03,"Finger Lake School, Wasilla (established by UAA)",61.6091,-149.305
+N15K,"Kwethluk River, AK, USA",60.1686,-160.0921
+N18K,"Kilae Creek, AK, USA",60.6801,-155.8897
+N19K,"Bonanza Creek NPS repeater, AK, USA",60.8132,-154.4838
+NEA,"Nenana, AK, USA",64.592201,-149.070602
+NEA2,"Nenana, AK, USA",64.5928,-149.0694
+NICH,"Nichawak Mountain, AK, USA",60.2357,-143.9713
+NIKH,"Nikolski High Hill, AK, USA",52.972099,-168.854996
+NIKI,"Nikiski AGDC plant, AK, USA",60.6726,-151.3523
+NIKO,"Nikolski, AK, USA",52.937801,-168.868698
+NKA,"Nikiski, AK, USA",60.7425,-151.239502
+NOTK,"Noatak, AK, USA",67.579498,-162.971405
+O14K,"Tigyukauivet Mountain, AK, USA",59.2533,-161.2638
+O18K,"Koktuh Hills, AK, USA",59.8542,-155.208
+O19K,"Port Alsworth, AK, USA",60.1952,-154.3201
+O20K,"Slope Mountain, AK, USA",60.0815,-152.624
+P08K,"Saint George Island, AK, USA",56.6011,-169.5484
+P16K,"Nushagak River, AK, USA",59.0314,-157.9906
+P17K,"Kvichak River, AK, USA",59.1953,-156.4394
+P23K,"Montague Island, AK, USA",59.9979,-147.4031
+PAX,"Paxson, AK, USA",62.9699,-145.4699
+PIN,"Pinnacle, AK, USA",60.095901,-140.252502
+PNL,"Peninsula, AK, USA",59.667,-139.401398
+POKR,"Poker Flat Research Range, AK, USA",65.1171,-147.4335
+PPD,"Porcupine Dome, AK, USA",65.517403,-145.524597
+PPLA,"Purkeypile, AK, USA",62.896198,-152.189407
+PS01,"TAPS Pump Station 1, AK, USA",70.258,-148.6141
+PS04,"TAPS Pump Station 4, AK, USA",68.4215,-149.3568
+PS05,"TAPS Pump Station 5, AK, USA",66.8133,-150.6646
+PS06,"TAPS Pump Station 6, AK, USA",65.8545,-149.7369
+PS07,"TAPS Pump Station 7, AK, USA",65.3106,-148.2791
+PS08,"TAPS Pump Station 8, AK, USA",64.5422,-146.8221
+PS09,"TAPS Pump Station 9, AK, USA",63.9299,-145.7682
+PS10,"TAPS Pump Station 10, AK, USA",63.4229,-145.7684
+PS11,"TAPS Pump Station 11, AK, USA",62.0789,-145.4751
+PS12,"TAPS Pump Station 12, AK, USA",61.4749,-145.1458
+PTPK,"Patty Peak Repeater, AK, USA",61.187099,-142.467194
+PWL,"Port Wells, AK, USA",60.858398,-148.333405
+Q19K,"Cape Douglas, AK, USA",58.9287,-153.6446
+Q23K,"Middleton Island, AK, USA",59.4296,-146.3399
+R16K,"Pilot Point, AK, USA",57.5673,-157.5742
+R18K,"Karluk, AK, USA",57.5665,-154.4524
+R32K,"Eaglecrest, AK, USA",58.2747,-134.5181
+RAG,"Ragged Mountain, AK, USA",60.3863,-144.6773
+RC01,"Rabbit Creek, AK, USA",61.0889,-149.739
+RDOG,"Red Dog Mine, AK, USA",68.0541,-162.908005
+RIDG,"Independent Ridge, AK, USA",63.7399,-144.8462
+RKAV,"Rock Avalanche, AK, USA",60.2994,-141.347794
+RND,"Reindeer, AK, USA",63.4056,-148.8602
+S15K,"Chignik Lagoon, AK, USA",56.3058,-158.54
+S19K,"Old Harbor, AK, USA",57.2225,-153.2875
+S31K,"Pelican, AK, USA",57.9616,-136.232
+S32K,"Killisnoo, AK, USA",57.4688,-134.5763
+SAMH,"Samovar Hills, AK, USA",60.129398,-140.782806
+SAW,"Sawmill, AK, USA",61.806999,-148.331604
+SCM,"Sheep Mountain, AK, USA",61.832001,-147.328995
+SCRK,"Sand Creek, AK, USA",63.976101,-143.990494
+SGA,"Sherman Glacier, AK, USA",60.5341,-145.208206
+SII,"Sitkinak Island Coast Guard, AK, USA",56.5593,-154.1842
+SKN,"Skwentna, AK, USA",61.98,-151.5317
+SLK,"Skilak Lake, AK, USA",60.5117,-150.223099
+SPIA,"St Paul Island, AK, USA",57.176601,-170.247803
+SSN,"Susitna, AK, USA",61.4636,-150.7467
+SSP,"Sunshine Point, AK, USA",60.1791,-142.8388
+SUCK,"Suckling Hills, AK, USA",60.071999,-143.779007
+SWD,"Seward, AK, USA",60.1043,-149.4526
+TABL,"Table Mountain, AK, USA",60.439899,-141.144302
+TAPE,"Goshawk Ln, Fairbanks, AK",64.892845,-147.789047
+TGL,"Tana Glacier, AK, USA",60.754101,-142.829193
+THY,"Trims Highway, AK, USA",63.415901,-145.758408
+TNA,"Tin City, AK, USA",65.5598,-167.9267
+TOLK,"Toolik Lake Research Station, AK, USA",68.6408,-149.5724
+TRAP,"Trapper Creek, AK, USA",62.334599,-150.246094
+TRF,"Thorofare Mountian, AK, USA",63.450199,-150.289307
+U33K,"Whale Pass, AK, USA",56.1146,-133.121
+UNV,"Unalaska Valley, AK, USA",53.8452,-166.5045
+V35K,"Ketchikan, AK, USA",55.3279,-131.615
+VMT,"Valdez Marine Terminal, AK, USA",61.083,-146.368
+VRDI,"Verde Repeater, AK, USA",61.227501,-143.454498
+WAT1,"Susitna Watana 1, AK, USA",62.8295,-148.5509
+WAT2,"Susitna Watana 2, AK, USA",62.9628,-148.5855
+WAT3,"Susitna Watana 3, AK, USA",62.681198,-148.537704
+WAT4,"Susitna Watana 4, AK, USA",62.8349,-147.942093
+WAT5,"Susitna Watana 5, AK, USA",63.062401,-148.228607
+WAT6,"Susitna Watana 6, AK, USA",62.580799,-147.740005
+WAT7,"Susitna Watana 7, AK, USA",62.8331,-148.8476
+WAX,"Waxell Ridge, AK, USA",60.448002,-142.852905
+WRH,"Wood River Hill, AK, USA",64.4716,-148.0918
+YAH,"Yahtse, AK, USA",60.358299,-141.751007
+YAKA,"Yakutat, AK, USA",59.512299,-139.671997
+AKUT,"Akutan, Alaska",54.13517,-165.771851
+CHGN,"Chignik, Alaska",56.301399,-158.414154
+CRAG,"Craig, Alaska",55.468941,-133.122971
+MENT,"Mentasta, Alaska",62.938049,-143.719421
+MID,"Middleton Island, Alaska",59.427799,-146.338806
+OHAK,"Old Harbor, Alaska",57.2225,-153.287506
+PMR,"Palmer, Alaska",61.592201,-149.130798
+SDPT,"Sand Point, Alaska",55.3493,-160.476593
+SIT,"Sitka, Alaska",57.0569,-135.324402
+SKAG,"Skagway, Alaska",59.460098,-135.328964
+SMY,"Shemya, Alaska",52.730801,174.103104
+SVW2,"Sparrevohn, Alaska",61.1082,-155.621704
+TTA,"Tatalina, Alaska",62.930099,-156.011597
+YKU2,"Yakutat, Alaska",59.5121,-139.671036
+A11,"St-Roch-Des-Aulnaies, QC, CA",47.2431,-70.1969
+A16,"Riviere Ouelle, QC, CA",47.468,-70.0096
+A21,"St-Andre, QC, CA",47.7045,-69.6892
+A54,"Misere, QC, CA",47.4568,-70.4134
+A61,"Sainte Mathilde, QC, CA",47.6936,-70.0914
+A64,"Saint-Simeon, QC, CA",47.8274,-69.8914
+ALB,"Alberni, BC, CA",49.27,-124.8287
+ALRN,"CFB Alert, NU, NU, CA",82.4968,-62.3525
+ATKO,"Atikokan Iron Mine, ON, CA",48.8231,-91.6004
+ATLI,"Atlin, BC, CA",59.5898,-133.7147
+BAIB,"Barry Inlet, BC, CA",52.5757,-131.7534
+BATG,"Bathurst, NB, CA",47.2767,-66.0599
+BBB,"Bella Bella, BC, CA",52.1847,-128.1133
+BCBC,"Bella Coola, BC, CA",52.372,-126.755
+BCLQ,"Boischatel, QC, CA",46.9264,-71.1727
+BFSB,"Bamfield, BC, CA",48.8336,-125.136
+BIB,"Bowen Island, BC, CA",49.4103,-123.3105
+BJBQ,"Baie Johan Beetz, QC, CA",50.2874,-62.8094
+BLBC,"Blue River, BC, CA",52.044,-119.2439
+BLKN,"Baker Lake, NU, CA",64.3185,-96.0024
+BMBC,"Bull Mountain, BC, CA",56.0449,-122.1336
+BMSB,"Bamfield Marine Station, BC, CA",48.8356,-125.1355
+BMTB,"Bullhead Mountain, BC, CA",56.0451,-122.1332
+BNAB,"Bonilla, BC, CA",53.4932,-130.6368
+BNB,"Barry Inlet, BC, CA",52.5758,-131.7522
+BOIB,"Bowen Island, BC, CA",49.3903,-123.3788
+BOIN,"Boiestown, NB, CA",46.4612,-66.4088
+BPBC,"Brooks Peninsula, BC, CA",50.1571,-127.7721
+BPEB,"Brooks Peninsula, BC, CA",50.1566,-127.7719
+BRWY,"Burwash Landing, YT, CA",61.3704,-139.0338
+BSPQ,"Baie-St-Paul, QC, CA",47.4418,-70.5056
+BTB,"Buttle Lake, BC, CA",49.4686,-125.5226
+BVCY,"Beaver Creek, YT, CA",62.4141,-140.8606
+CACQ,"Cacouna, QC, CA",47.9481,-69.4996
+CALQ,"Cantley, QC, CA",45.5858,-75.8084
+CBB,"Campbell River, BC, CA",50.0315,-125.3652
+CHEG,"Cheticamp, NS, CA",46.8083,-60.6745
+CHIQ,"Chicoutimi-Nord, QC, CA",48.4898,-71.0123
+CHRO,"Chalk River, ON, CA",46.0376,-77.3794
+CKO,"CHALK RIVER, ON, CA",45.9944,-77.45
+CLRN,"Clyde River, NU, CA",70.4743,-68.5871
+CLRS,"Cowichan Lake Research St, BC, CA",48.8203,-124.1309
+CNOQ,"Cote-Nord, QC, CA",49.302,-68.0746
+CNQ,"Cote-Nord, QC, CA",49.302,-68.0746
+COBO,"Cobden, ON, CA",45.6269,-76.8835
+CRLO,"Chalk River, ON, CA",46.0375,-77.3801
+CROWY,"Old Crow, YT, CA",67.6136,-139.8717
+DAQ,"Lac Daran, QC, CA",47.9627,-71.2437
+DAWY,"Dawson, YT, CA",64.0647,-139.3937
+DI2B,"Dawson Inlet, BC, CA",53.2022,-132.4767
+DIB,"Dawson Inlet, BC, CA",53.2025,-132.4767
+DLBC,"Dease Lake, BC, CA",58.4368,-130.0304
+DOWB,"Downie Slide, BC, CA",51.518,-118.517
+DPQ,"St-Jean-Des-Piles, QC, CA",46.6803,-72.7771
+DRLN,"Deer Lake, NL, CA",49.2562,-57.5032
+DRMQ,"Drummondville, QC, CA",45.8987,-72.4749
+EAGLY,"Eagle Plains, YT, CA",66.3701,-136.7191
+EBN,"EDMUNDSTON, NB, CA",47.462,-68.242
+EDB,"Eliza Dome, BC, CA",49.873,-127.1216
+EDM,"Edmonton, AB, CA",53.223,-113.3497
+EDMN,"Edmundston, NB, CA",47.4607,-68.2398
+EDUN,"Edmundston, NB, CA",47.3708,-68.3155
+EEO,"Eldee, ON, CA",46.641,-79.0735
+EFO,"Effingham, ON, CA",43.0925,-79.3099
+EPLO,"Exp. Lake, ON, CA",49.6737,-93.7258
+ETB,"Estevan Point, BC, CA",49.3834,-126.5423
+ETPB,"Estevan Point ETPB, BC, CA",49.3833,-126.543
+EUNU,"GLISN Station Eureka, Nunavut Territory, Canada",80.0532,-86.4158
+FCC,"Fort Churchill, MB, CA",58.7592,-94.0884
+FHBB,"Fair Harbour, BC, CA",50.0605,-127.1146
+FNBB,"Fort Nelson, BC, CA",58.8903,-123.0099
+FNBC,"Fort Nelson, BC, CA",58.8418,-122.5737
+FNSB,"Fort Nelson, BC, CA",58.8061,-122.7328
+FRB,"GLISN Station Iqualuit, Nunavut Territory, Canada",63.7469,-68.5451
+FSB,"Fort St. James, BC, CA",54.4767,-124.3283
+FSJB,"Fort St James, BC, CA",54.4588,-124.2944
+GAC,"Glen Almond, Quebec, Canada",45.703201,-75.478302
+GBN,"Guysborough, NS, CA",45.4079,-61.5128
+GDR,"Gold River, BC, CA",49.7805,-126.0557
+GGN,"Saint George, NB, CA",45.1184,-66.842
+GHNB,"Greg House Nanoose, BC, CA",49.3065,-124.2364
+GOBB,"Galiano Island, BC, CA",48.9493,-123.5105
+GRQ,"Grand-Remous, QC, CA",46.6059,-75.8587
+GSQ,"Grosses-Roches, QC, CA",48.9142,-67.1106
+GTO,"Geraldton, ON, CA",49.7455,-86.9611
+GTOO,"Geraldton, ON, CA",49.7451,-86.9613
+HAL,"Halifax, NS, CA",44.6378,-63.5912
+HG1B,"Mitchell Dam, BC, CA",52.9345,-132.1307
+HG3B,"Hotspring, BC, CA",52.5766,-131.4435
+HG4B,"Jedway, BC, CA",52.2931,-131.1976
+HGPB,"Parks Canada Compound, BC, CA",53.2536,-132.118
+HGSB,"Sids House Qcc, BC, CA",53.2557,-132.1048
+HNB,"Haney, BC, CA",49.2745,-122.5792
+HNBB,"Haney, BC, CA",49.2873,-122.5729
+HNYB,"Haney, BC, CA",49.3055,-122.5793
+HOLB,"Holberg, BC, CA",50.6402,-128.1331
+HOPB,"Hope, BC, CA",49.3872,-121.4206
+HSNB,"Heath Steele Mine, NB, CA",47.2769,-66.0601
+HTQ,"HAUTERIVE, QC, CA",49.1917,-68.3939
+HWKO,"Hawkesbury, ON, CA",45.6068,-74.6028
+HYT,"Haines Jct., YT, CA",60.8267,-137.5072
+ICQ,"Islets-Caribou, QC, CA",49.5223,-67.2715
+IGL,"Igloolik, NU, CA",69.3767,-81.8067
+ILON,"Igloolik, NU, CA",69.3712,-81.8243
+INK,"Inuvik, NT, CA",68.3065,-133.5254
+JAKH,"Jacmel, SE, HT",18.2377,-72.518
+JAQ,"LA GRANDE-3, QC, CA",53.8022,-75.7211
+JEDB,"Jedway, Haida Gwaii, BC, CA",52.2931,-131.1976
+KAPO,"Kapuskasing, ON, CA",49.451,-82.5077
+KGNO,"Kingston, ON, CA",44.2272,-76.4934
+KILO,"Kirkland Lake, ON, CA",48.4972,-79.7232
+KIPQ,"Kipawa, QC, CA",46.7919,-79.0567
+KLN,"MCKENDRICK L., NB, CA",46.8433,-66.3717
+KUKN,"Kugluktuk, NT, CA",67.8227,-115.0897
+KUQ,"Kuujjuaq, QC, CA",58.109,-68.4113
+LDAQ,"Lac Daran, QC, CA",47.9636,-71.2443
+LDSQ,"Shawville, QC, CA",45.7127,-76.3469
+LG4Q,"Lagrande4, QC, CA",53.6262,-74.0961
+LGNH,"LEOGANE, OU, HT",18.511,-72.6058
+LIB,"Langara Island, BC, CA",54.2558,-133.0583
+LLLB,"Lillooet, BC, CA",50.609,-121.8815
+LMN,"Caledonia Mtn., NB, CA",45.8544,-64.8063
+LMQ,"La Malbaie, QC, CA",47.5485,-70.3258
+LPQ,"La Pocatiere, QC, CA",47.3412,-70.0101
+LZB,"Mount Lazard, BC, CA",48.6122,-123.824
+MALO,"Mcalpine Lake, ON, CA",50.0244,-79.7635
+MASB,"Masset, BC, CA",54.0244,-132.0223
+MAYB,"Mount Maynard, BC, CA",50.4025,-127.1737
+MBC,"Mould Bay, NT, CA",76.2417,-119.36
+MCA1,"Mcadam, NB, CA",45.5946,-67.3301
+MCA2,"Mcadam, NB, CA",45.5921,-67.3127
+MCA3,"Mcadam, NB, CA",45.587,-67.3367
+MCA4,"Mcadam, NB, CA",45.5983,-67.3267
+MCA5,"McAdam, NB, CA",45.6048,-67.327
+MCMB1,"Michelle Canyon Maxwell, BC, CA",52.8217,-123.819
+MCNB,"McAdam, NB, CA",45.5958,-67.3198
+MGB,"Mount Grey, BC, CA",48.9999,-124.697
+MGMB,"Mountain Meager, BC, CA",50.6279,-123.4081
+MGRB,"Mount Grey, BC, CA",48.9997,-124.6971
+MNB,"Mount Dainard, BC, CA",52.1976,-118.3887
+MNQ,"Manicouagan, QC, CA",50.5333,-68.7744
+MNT,"Montreal, QC, CA",45.5025,-73.6231
+MNTQ,"Montreal, QC, CA",45.5003,-73.6228
+MOBC,"Moresby, BC, CA",53.1437,-131.9663
+MOBC2,"Moresby Haida Gwaii, BC, CA",53.1442,-131.9674
+MOQ,"Mont-Orford, QC, CA",45.3115,-72.2409
+MORQ,"Mont Orford, QC, CA",45.3118,-72.2407
+MRBQ,"Mirabel, QC, CA",45.7972,-73.9852
+MRHQ,"Morin Heights, QC, CA",45.887,-74.2127
+MYRA,"Myra Falls, BC, CA",49.551,-125.5705
+NAB,"Nanaimo, BC, CA",49.2221,-124.0042
+NANO,"Aroland Nakina, ON, CA",50.3543,-86.9684
+NATG,"Baie Johan Beetz, QC, CA",50.2872,-62.8102
+NCRB,"Newcastle Ridge, BC, CA",50.4035,-126.0553
+NCSB,"Newcastle Ridge, BC, CA",50.4031,-126.0559
+NDB,"Naden, BC, CA",53.9538,-132.9399
+NINL,"Nain, NL, CA",56.5374,-61.6882
+NLLB,"Nanaimo Lost Lake, BC, CA",49.2271,-123.9882
+NTKA,"Nootka, BC, CA",49.5924,-126.6166
+ORIO,"Orleans Innes Road, ON, CA",45.4515,-75.511
+OTAO,"Ottawa Anderson Road, ON, CA",45.4069,-75.5526
+OTT,"Ottawa, ON, CA",45.3939,-75.7148
+OZB,"Mt. Ozzard, BC, CA",48.9612,-125.4978
+PABB,"Port Alberni, BC, CA",49.2188,-124.8114
+PACB,"Port Alice, BC, CA",50.4355,-127.4925
+PAPH,"Port au Prince, OU, HT",18.5225,-72.2993
+PAULN,"Paulatuk, NT, CA",69.3475,-124.0703
+PCLB,"Port Clements, BC, CA",53.7155,-132.5211
+PFB,"Port Renfrew, BC, CA",48.5747,-124.4541
+PGC,"Sidney, BC, CA",48.6498,-123.4521
+PHC,"Port Hardy, BC, CA",50.7067,-127.433
+PKLO,"Pickle Lake, ON, CA",51.4987,-90.3522
+PLBC,"Pleasant Camp, BC, CA",59.455,-136.3659
+PLSQ,"Plessisville, QC, CA",46.1063,-71.8202
+PMAQ,"Port Menier Anticosti Is, QC, CA",49.8285,-64.3269
+PMB,"Pemberton Meadow Bc, BC, CA",50.5188,-123.0765
+PNPO,"Pukaskwa, ON, CA",48.5957,-86.2846
+PNT,"Penticton, BC, CA",49.3224,-119.6254
+POIN,"Pond Inlet, NU, CA",72.7012,-77.962
+PTRF,"Port Renfrew PTRF, BC, CA",48.5442,-124.4131
+QCQ,"Quebec City, QC, CA",46.7792,-71.2756
+QEPB,"Queen Elizabeth Park, BC, CA",49.2419,-123.1141
+RDLQ,"Riviere-du-Loup, QC, CA",47.8352,-69.5376
+RES,"GLISN Station Resolute, Nunavut Territory, Canada",74.6892,-94.8962
+RIGQ,"Rigaud, QC, CA",45.4469,-74.2581
+RIMQ,"Rimouski, QC, CA",48.4449,-68.482
+RISQ,"Rimouski, QC, CA",48.4533,-68.5127
+ROUQ,"Riviere-Ouelle, QC, CA",47.4753,-69.9966
+RUB,"Prince Rupert, BC, CA",54.3259,-130.2867
+RUBB,"Prince Rupert, BC, CA",54.3262,-130.2523
+SACHN,"Sachs Harbour, NT, CA",71.9871,-125.2472
+SADO,"Sadowa, ON, CA",44.7695,-79.1411
+SAKN,"Sanikiluaq, NU, CA",56.5359,-79.2324
+SANQ,"St-Andre-du-Lac-St-Jean, QC, CA",48.3249,-71.9886
+SBQ,"SHERBROOKE, QC, CA",45.3783,-71.9264
+SCH,"Schefferville, QC, CA",54.8183,-66.7833
+SCHQ,"Schefferville, QC, CA",54.8324,-66.8332
+SELQ,"St-Eleuthere, QC, CA",47.4958,-69.362
+SFA,"Sept-Chutes, QC, CA",47.124401,-70.826599
+SGRQ,"St-Georges, QC, CA",46.1399,-70.5788
+SHB,"Sechelt, BC, CA",49.5985,-123.8771
+SHPB,"Sharp Point, BC, CA",49.3476,-126.2598
+SILO,"Sutton Inlier, ON, CA",54.4792,-84.9126
+SJNN,"St. Johns, NL, CA",47.5951,-52.678
+SJUQ,"Ste-Julie, QC, CA",45.5621,-73.3233
+SLBQ,"Ste-Lucie-de-Beauregard, QC, CA",46.7418,-70.016
+SLEB,"Sale Mountain, BC, CA",51.1685,-118.1326
+SMQ,"Ste-Marguerite, QC, CA",50.2225,-66.7025
+SNB,"Saturna Island, BC, CA",48.7751,-123.1723
+SNFQ,"Sainte-Felicite, QC, CA",48.888,-67.3511
+SOLO,"Sioux Lookout, ON, CA",50.0215,-92.0808
+STJA,"Cape St.James, BC, CA",51.9372,-131.0155
+STJN,"St. Johns, NL, CA",47.5699,-52.7559
+STPQ,"St-Pascal, QC, CA",47.5262,-69.8049
+SUBO,"Sudbury, ON, CA",46.6115,-81.1321
+SUNO,"Sudbury Onaping, ON, CA",46.6438,-81.3442
+SURQ,"Ste-Clotilde, QC, CA",45.1675,-73.7081
+SYMB,"Survey Mountain, BC, CA",48.5593,-123.7989
+TAHB,"Tahsis, BC, CA",49.8925,-126.677
+TBO,"Thunder Bay, ON, CA",48.6472,-89.4085
+TIMO,"Timmins, ON, CA",48.4659,-81.3032
+TKWB,"Talunkwan Haida Gwaii, BC, CA",52.8597,-131.7501
+TOFB,"Tofino, BC, CA",49.1543,-125.9078
+TRQ,"Mont-Tremblant, QC, CA",46.2175,-74.5514
+TSUB,"Tasu, BC, CA",52.7551,-132.0415
+TXB,"Texada Island, BC, CA",49.698,-124.4376
+TXDB,"Texada, BC, CA",49.6979,-124.4377
+UBRB,"Upper Baezaeko River, BC, CA",52.8918,-124.0832
+ULM,"Lac Du Bonnet, MB, CA",50.2503,-95.875
+VABQ,"Val Des Bois, QC, CA",45.9047,-75.6079
+VDB,"Vedder Mountain, BC, CA",49.0261,-122.1028
+VDBQ,"Val-Des-Bois, QC, CA",45.9277,-75.5697
+VDEB,"Vedder Mountain, BC, CA",49.057,-122.0571
+VDQ,"VAL-D'OR, QC, CA",48.23,-77.9717
+VGZ,"Victoria Gonzales, BC, CA",48.4131,-123.3251
+VIB,"Van Inlet, BC, CA",53.2522,-132.5406
+VIMO,"Victor Mine, ON, CA",52.8173,-83.7449
+VLDQ,"Val-dOr, QC, CA",48.1901,-77.7572
+WALA,"Waterton Lake, AB, CA",49.0595,-113.9112
+WBO,"Williamsburg, ON, CA",45.0012,-75.2753
+WEO,"WELCOME, ON, CA",44.0186,-78.3744
+WHY,"Whitehorse, YT, CA",60.6597,-134.8825
+WOSB,"Woss, BC, CA",50.1608,-126.5704
+WPB,"Watts Point, BC, CA",49.6478,-123.2094
+WSLR,"Whistler, BC, CA",50.1266,-122.9212
+YKAB0,"Yellowknife Blue 10, NT, CA",62.6059,-114.606
+YKAB1,"Yellowknife Blue 1, NT, CA",62.4023,-114.6063
+YKAB2,"Yellowknife Blue 2, NT, CA",62.4247,-114.6064
+YKAB3,"Yellowknife Blue 3, NT, CA",62.4485,-114.6061
+YKAB4,"Yellowknife Blue 4, NT, CA",62.4709,-114.6057
+YKAB6,"Yellowknife Blue 6, NT, CA",62.5164,-114.6057
+YKAB7,"Yellowknife Blue 7, NT, CA",62.5389,-114.6061
+YKAB8,"Yellowknife Blue 8, NT, CA",62.5614,-114.6054
+YKAB9,"Yellowknife Blue 9, NT, CA",62.5829,-114.6047
+YKAR1,"Yellowknife Red 1, NT, CA",62.4928,-114.9445
+YKAR2,"Yellowknife Red 2, NT, CA",62.4928,-114.8959
+YKAR3,"Yellowknife Red 3, NT, CA",62.4929,-114.8477
+YKAR4,"Yellowknife Red 4, NT, CA",62.4927,-114.7998
+YKAR5,"Yellowknife Red 5, NT, CA",62.4931,-114.7504
+YKAR6,"Yellowknife Red 6, NT, CA",62.4932,-114.7019
+YKAR7,"Yellowknife Red 7, NT, CA",62.4932,-114.6544
+YKAR8,"Yellowknife Red 8, NT, CA",62.4931,-114.6061
+YKAR9,"Yellowknife Red 9, NT, CA",62.493,-114.5564
+YKAW1,"Yellowknife White 1, NT, CA",62.4822,-114.4842
+YKAW3,"Yellowknife White 3, NT, CA",62.5616,-114.6099
+YKB0,"Yellowknife, NT, CA",62.6059,-114.606
+YKB1,"Yellowknife, NT, CA",62.4023,-114.6063
+YKB2,"Yellowknife, NT, CA",62.4247,-114.6063
+YKB3,"Yellowknife, NT, CA",62.4485,-114.6061
+YKB4,"Yellowknife, NT, CA",62.4709,-114.6058
+YKB6,"Yellowknife, NT, CA",62.5164,-114.6057
+YKB7,"Yellowknife, NT, CA",62.5389,-114.6061
+YKB8,"Yellowknife, NT, CA",62.5615,-114.6055
+YKB9,"Yellowknife, NT, CA",62.583,-114.6039
+YKR1,"Yellowknife, NT, CA",62.4928,-114.9445
+YKR2,"Yellowknife, NT, CA",62.4928,-114.8959
+YKR3,"Yellowknife, NT, CA",62.4929,-114.8476
+YKR4,"Yellowknife, NT, CA",62.4927,-114.7998
+YKR5,"Yellowknife, NT, CA",62.4932,-114.7504
+YKR6,"Yellowknife, NT, CA",62.4932,-114.702
+YKR7,"Yellowknife, NT, CA",62.4932,-114.6544
+YKR8,"Yellowknife, NT, CA",62.4931,-114.6062
+YKR9,"Yellowknife, NT, CA",62.493,-114.5565
+YKW1,"Yellowknife, NT, CA",62.4822,-114.4843
+YKW2,"Yellowknife, NT, CA",62.4337,-114.6038
+YKW3,"Yellowknife, NT, CA",62.5616,-114.6099
+YKW4,"Yellowknife, NT, CA",62.4925,-114.7432
+YKW5,"Yellowknife, NT, CA",62.4822,-114.4843
+YOUB,"Youbou Lake Cowichan, BC, CA",48.901,-124.2618
+YUK1,"Sand Pete Hill, YT, CA",62.1533,-140.5288
+YUK2,"White River, YT, CA",61.7668,-140.8426
+YUK3,"Moose Creek, YT, CA",61.7755,-140.4595
+YUK4,"Talbot Arm, YT, CA",61.4348,-138.5463
+YUK5,"Granite Creek, YT, CA",61.1315,-137.8593
+YUK6,"Outpost Mountain, YT, CA",60.9432,-138.3626
+YUK7,"Dusty Glacier, YT, CA",60.5307,-138.1399
+YUK8,"Steele Glacier, YT, CA",61.2844,-139.7646
+ACH,"Angle Creek Headwaters, Katmai, Alaska",58.21,-155.3281
+ADAG,"Mount Adagdak, Regional Station, Alaska",51.98004,-176.60023
+ADKI,"Adak infrasound array, Adak Island, Alaska",51.8617,-176.6448
+AHB,"Akutan Harbor, Akutan Volcano, Alaska",54.115339,-165.8161
+AJAX,"Aniakchak, Aniakchak Jack, Alaska",56.8887,-158.2238
+AK1,"Akutan 1, Akutan Volcano",54.135,-165.772
+AK2,"Akutan 2, Akutan Volcano",54.1233,-165.7803
+AK3,"Akutan 3, Akutan Volcano",54.135,-165.772
+AK4,"Akutan 4, Akutan Volcano",54.1091,-165.7337
+AK5,"Akutan 5, Akutan Volcano",54.15434,-165.867
+AKBB,"Akutan Broad Bright, Akutan Volcano, Alaska",54.0975,-165.9338
+AKGG,"Akutan Green Grass, Akutan Volcano, Alaska",54.1979,-165.9936
+AKHS,"Akutan Hot Springs Bay, Akutan Volcano, Alaska",54.1533,-165.8868
+AKLV,"Akutan Long Valley, Akutan Volcano, Alaska",54.162633,-165.95563
+AKM,"Akutan M, Akutan Volcano",54.1543,-165.867
+AKMO,"Akutan Morgan, Akutan Volcano, Alaska",54.0903,-166.0126
+AKRB,"Akutan Reef Bight, Akutan Volcano, Alaska",54.1292,-166.0708
+AKS,"Akutan Strait, Akutan Volcano, Alaska",54.11047,-165.69691
+AKSA,"Akutan Strait, Akutan Volcano, Alaska",54.11047,-165.69691
+AKT,"Akutan School, Akutan Volcano, Alaska",54.1349,-165.772
+AKV,"Akutan Volcano, Akutan Volcano, Alaska",54.12591,-165.96234
+AMKA,"Amchitka Island, Regional Station, Alaska",51.3784,179.3019
+ANCK,"Angle Creek, Katmai Volcanic Cluster, Alaska",58.198743,-155.4955
+ANIA,"Aniakchak Volcano, Aniakchak Crater, Alaska",56.9048,-158.2316
+ANNE,"Aniakchak Northeast, Alaska",56.9119,-158.061
+ANNQ,"Aniakchak Nanwaq, Alaska",56.932754,-158.113103
+ANNW,"Aniakchak North West, Alaska",56.9656,-158.217
+ANON,"Aniakchak Anonymous, Alaska",56.919,-158.1737
+ANPB,"Aniakchak Plenty Bear, Alaska",56.80157,-158.28265
+ANPK,"Aniakchak Peak, Alaska",56.8409,-158.1283
+ANRM,"Aniakchak Rim, Alaska",56.8962,-158.2337
+ANSL,"Aniakchak Surprise Lake, Alaska",56.9316,-158.1384
+ANVM,"Aniakchak Vent Mountain, Alaska",56.8858,-158.17509
+AU11,"AU11, Augustine Volcano, Alaska",59.359,-153.4826
+AU12,"AU12, Augustine Volcano, Alaska",59.3829,-153.4542
+AU13,"AU13, Augustine Volcano, Alaska",59.3458,-153.4364
+AU14,"AU14, Augustine Volcano, Alaska",59.3705,-153.3992
+AU15,"AU15, Augustine Volcano, Alaska",59.3501,-153.4879
+AU20,"Augustine Mound, Augustine Volcano, Alaska",59.3696,-153.3563
+AU22,"Augustine Mound, Augustine Volcano, Alaska",59.370595,-153.35506
+AUC,"Augustine Crater, Cook Inlet, Alaska",59.3593,-153.4268
+AUCH,"Augustine Cone H, Augustine Volcano, Alaska",59.3626,-153.4447
+AUE,"Augustine East, Augustine Volcano, Alaska",59.3711,-153.3773
+AUH,"Dome H, Augustine Volcano, Alaska",59.3632,-153.4454
+AUI,"Augustine Island, Cook Inlet, Alaska",59.3345,-153.4299
+AUJA,"Augustine Junction, Augustine Volcano, Alaska",59.33956,-153.42258
+AUJK,"Augustine Juergen Kienle, Augustine Volcano, Alaska",59.34593,-153.41057
+AUL,"Lava Flow, Augustine Volcano, Alaska",59.38218,-153.43765
+AULG,"Augustine Lagoon, Augustine Volcano, Alaska",59.3773,-153.5193
+AUNO,"Augustine North, Augustine Volcano, Alaska",59.403992,-153.451444
+AUNW,"Augustine Northwest, Augustine Volcano, Alaska",59.3775,-153.479
+AUP,"Augustine Pinnacle, Augustine Volcano, Alaska",59.3627,-153.4226
+AUQ,"Augustine Qik'rtamen, Augustine Volcano, Alaska",59.3549,-153.4143
+AUR,"Augustine Rim, Cook Inlet, Alaska",59.3621,-153.4335
+AUS,"Augustine Summit, Cook Inlet, Alaska",59.3593,-153.4329
+AUSB,"Augustine South Buttress, Augustine Volcano, Alaska",59.333,-153.4284
+AUSE,"Augustine Southeast, Cook Inlet, Alaska",59.3407,-153.3997
+AUSS,"Augustine Summit Station, Augustine Volcano, Alaska",59.358957,-153.431042
+AUW,"Augustine West, Augustine Volcano, Alaska",59.369413,-153.47295
+AUWS,"Augustine West Swell, Augustine Volcano, Alaska",59.35851,-153.46115
+AZAC,"Aniakchak Zack, Alaska",56.8947,-158.2328
+BAEI,"Barry Arm East Infrasound Array, Alaska",61.132128,-148.122216
+BGL,"Barrier Glacier, Mount Spurr, Alaska",61.2663,-152.3913
+BGM,"Big Mountain, Regional Station, Alaska",59.392,-155.2315
+BGR,"Barrier Glacier Two, regional station, Alaska",60.7569,-152.4199
+BKG,"Blockade Glacier, Mount Spurr, Alaska",61.0696,-152.265
+BLDW,"Baldy Mountain West, Mount Dutton, Alaska",55.190907,-162.787687
+BLDY,"Baldy Mountain, Mount Dutton, Alaska",55.1936,-162.7856
+BLHA,"Black Hill, Pavlof Volcano, Alaska",55.702988,-162.066971
+BOGO,"Bogoslof, Bogoslof Volcano, Alaska",53.9291,-168.0347
+BPBC,"Black Peak Birthday Creek, Veniaminof, Alaska",56.5889,-158.4547
+BPPC,"Black Peak Purple Crater, Alaska",56.58428,-158.82578
+BRPK,"Brown Peak, Shishaldin Volcano, Alaska",54.6446,-163.74286
+CAHL,"Cahill, Katmai, Alaska",58.0518,-155.3036
+CDD,"Cape Douglas, Fourpeaked Volcano, Alaska",58.9289,-153.6449
+CEAP,"Anvil Peak, Cerberus Volcano, Alaska",52.0012,179.5758
+CEPE,"Perret Ridge, Cerberus Volcano, Alaska",51.96442,179.64735
+CERA,"Ragged Top, Cerberus Volcano, Alaska",51.9058,179.6826
+CERB,"Cerberus Volcano, Cerberus Volcano, Alaska",51.93023,179.62785
+CESW,"Southwest, Cerberus Volcano, Alaska",51.8998,179.5613
+CETU,"Tuman Head, Cerberus Volcano, Alaska",51.96491,179.49217
+CGL,"Capps Glacier, Mt. Spurr, Alaska",61.3071,-152.009
+CKL,"Chakachamna Lake, Mount Spurr, Alaska",61.1934,-152.3401
+CKN,"Chakachatna North, Mt. Spurr, Alaska",61.2234,-152.1838
+CKT,"Chakachatna Bend, Mt. Spurr, Alaska",61.2002,-152.2085
+CLCL,"Carlisle Island, Cleveland Volcano, Alaska",52.8827,-170.02417
+CLCO,"Concord Point, Cleveland Volcano, Alaska",52.7866,-169.7229
+CLES,"Cleveland East, Cleveland Volcano, Alaska",52.8235,-169.8951
+CLNE,"Cleveland Northeast, Cleveland Volcano, Alaska",52.842481,-169.922345
+CLSF,"Cleveland South Flank, Cleveland Volcano, Alaska",52.793592,-169.928134
+CNTC,"Contact Creek, Katmai, Alaska",58.2638,-155.8858
+CP2,"Crater Peak 2, Mt. Spurr, Alaska",61.2636,-152.2441
+CRP,"Crater Peak, Mount Spurr, Alaska",61.2664,-152.1578
+DEER,"Deer Island, Alaska",54.97127,-162.32437
+DFR,"Drift River, Redoubt, Alaska",60.5913,-152.6882
+DLL,"Dillingham infrasound array site H1, Alaska",59.136028,-158.614235
+DOL,"Dolgoi Island, Mount Dutton, Alaska",55.149621,-161.86472
+DRR3,"Deer Island, Mount Dutton, Alaska",54.966,-162.2631
+DT1,"Dutton Round Hill, Mount Dutton, Alaska",55.10627,-162.28313
+DTN,"Dutton Volcano, Alaska",55.1448,-162.259
+EDCR,"Edgecumbe Crater Ridge, Edgecumbe Volcano, Alaska",57.0717,-135.70076
+EDES,"Edgecumbe East Side, Edgecumbe Volcano, Alaska",57.04388,-135.70921
+EDNW,"Edgecumbe Northwest Ridge, Edgecumbe Volcano, Alaska",57.063057,-135.783847
+EDSO,"Edgecumbe South, Edgecumbe Volcano, Alaska",57.02826,-135.78761
+ETKA,"Kagalaska Island, Regional Station, Alaska",51.86187,-176.40565
+FONW,"Fourpeaked Northwest, Fourpeaked Volcano, Alaska",58.8341,-153.9204
+FOPK,"Fourpeaked Mountain, Fourpeaked Volcano, Alaska",58.7574,-153.4762
+FOSS,"Fourpeaked Summit, Fourpeaked Volcano, Alaska",58.7987,-153.6971
+GAEA,"East, Gareloi Volcano, Alaska",51.7819,-178.7488
+GAKI,"Kavalga Island, Gareloi Volcano, Alaska",51.5534,-178.814
+GALA,"Lava Point, Gareloi Volcano, Alaska",51.760629,-178.77365
+GANE,"Northeast, Gareloi Volcano, Alaska",51.817787,-178.77859
+GANO,"North, Gareloi Volcano, Alaska",51.8192,-178.8058
+GASW,"Southwest, Gareloi Volcano, Alaska",51.777633,-178.856549
+GSCK,"Cape Kiugilak, Great Sitkin Volcano, Alaska",52.011509,-176.151768
+GSIG,"Igitkin Island, Great Sitkin Volcano, Alaska",51.986385,-175.92501
+GSMY,"Middle Yoke Creek, Great Sitkin Volcano, Alaska",52.043035,-176.056699
+GSSP,"Saddle Point, Great Sitkin Volcano, Alaska",52.09356,-176.17752
+GSTD,"Triple Divide, Great Sitkin Volcano, Alaska",52.055797,-176.144777
+GSTR,"Teapot Rock, Great Sitkin Volcano, Alaska",52.094361,-176.05888
+HAG,"Hague Volcano, Pavlof Volcano, Alaska",55.31687,-161.90451
+HSB,"Hot Springs, Akutan Volcano, Alaska",54.1859,-165.9144
+ILCB,"Iliamna Chinitna Bay, Iliamna Volcano, Alaska",59.82231,-153.02322
+ILI,"Iliamna Volcano, Alaska",60.0807,-152.9606
+ILLG,"Iliamna Lateral Glacier, Iliamna Volcano, Alaska",60.06885,-152.97855
+ILNE,"Iliamna Northeast, Iliamna Volcano, Alaska",60.0573,-153.06354
+ILS,"Iliamna South, Iliamna Volcano, Alaska",59.957,-153.0703
+ILSW,"Iliamna Southwest, Iliamna Volcano, Alaska",59.9832,-153.1425
+ILW,"Iliamna West, Iliamna Volcano, Alaska",60.059317,-153.13875
+INE,"Iliamna North East, Iliamna Volcano, Alaska",60.0599,-153.0644
+ISLZ,"Lazaref River, Shishaldin Volcano, Alaska",54.7249,-163.7129
+ISNN,"Isanotski North, Isanotski, Alaska",54.83157,-163.78082
+ISTK,"Isanotski, Shishaldin Volcano, Alaska",54.7312,-163.7083
+IVE,"Iliamna Volcano East, Iliamna Volcano, Alaska",60.0163,-153.0185
+IVS,"Iliamna Volcano Summit, Iliamna Volcano, Alaska",60.0086,-153.083
+KAB2,"Katmai Barrier Ridge Two, Alaska",58.13116,-154.97616
+KABR,"Katmai Barrier Ridge, Alaska",58.1304,-154.9705
+KABU,"Katmai Buttress Ridge, Alaska",58.2702,-155.2843
+KAHC,"Katmai Hardscrabble Creek, Alaska",58.6483,-155.0081
+KAHG,"Katmai Hook Glacier, Alaska",58.493726,-154.54667
+KAIC,"Katmai Ikaluik Glacier, Alaska",58.4843,-155.0479
+KAKN,"Knife Creek Promontory, Katmai, Alaska",58.2963,-155.0632
+KAPH,"Katmai Pasha, Alaska",58.596689,-154.346679
+KARR,"Katmai Rainbow River, Alaska",58.498123,-154.70383
+KAVE,"Katmai Ventifact, Alaska",58.19782,-155.02341
+KAWH,"Katmai West Hook, Alaska",58.383,-154.8013
+KBM,"Katmai Baked Mountain, Alaska",58.27467,-155.20517
+KCE,"Katmai Cerebus, Alaska",58.2426,-155.1854
+KCG,"Knife Creek Glacier, Katmai, Alaska",58.3069,-155.1135
+KEL,"Katmai Kelez, Alaska",58.44,-155.7407
+KENI,"Kenai infrasound array, Kenai, Alaska",60.640864,-151.07108
+KICM,"Cape Miga, Kanaga Volcano, Alaska",51.91896,-177.19559
+KIKV,"Kanaga Volcano, Kanaga Volcano, Alaska",51.878494,-177.17061
+KIMD,"MID Benchmark, Kanaga Volcano, Alaska",51.761504,-177.235207
+KINC,"North Cape, Kanaga Volcano, Alaska",51.93147,-177.1275
+KIRH,"Round Head, Kanaga Volcano, Alaska",51.89981,-177.0937
+KIWB,"Westway Bight, Kanaga Volcano, Alaska",51.853,-177.15094
+KJL,"Kejulik, Katmai, Alaska",58.0533,-155.5753
+KOFP,"Flat Point, Korovin Volcano, Alaska",52.274,-174.0992
+KOKL,"Mount Kliuchef, Korovin Volcano, Alaska",52.3221,-174.2022
+KOKV,"Korovin Volcano, Korovin Volcano, Alaska",52.3603,-174.1673
+KONE,"Northeast, Korovin Volcano, Alaska",52.39246,-174.12157
+KONW,"Northwest, Korovin Volcano, Alaska",52.3954,-174.2125
+KOSE,"Southeast, Korovin Volcano, Alaska",52.3447,-174.0505
+KOWE,"West, Korovin Volcano, Alaska",52.36459,-174.25262
+KVT,"Katmai Valley of 10,000 Smokes, Alaska",58.38067,-155.29854
+LSNW,"Northwest, Little Sitkin Volcano, Alaska",51.96931,178.51482
+LSPA,"Pratt Point, Little Sitkin Volcano, Alaska",51.9557,178.5714
+LSSA,"Saddle, Little Sitkin Volcano, Alaska",51.9484,178.5112
+LSSE,"Southeast, Little Sitkin Volcano, Alaska",51.93203,178.56697
+LVA,"Lava Point, Akutan Volcano, Alaska",54.1609,-166.0337
+MAPS,"Pakushin Southeast, Makushin Volcano, Alaska",53.808128,-166.94061
+MCIR,"Makushin Cirque, Makushin Volcano, Alaska",53.9505,-166.8942
+MGLS,"Mageik Landslide, Katmai, Volcanic Group, Alaska",58.133437,-155.16262
+MGOD,"Gods Own Repeater Site, Makushin Volcano, Alaska",53.793422,-166.878
+MMN,"McNeil River, Regional Station, Alaska",59.1845,-154.3389
+MNAT,"Nateekin Bay, Makushin Volcano, Alaska",53.88291,-166.68574
+MREP,"Repeater, Makushin Volcano, Alaska",53.8096,-166.7476
+MSOM,"Julie Andrews, Makushin Volcano, Alaska",53.8154,-166.9385
+MSW,"Switchbacks, Makushin Volcano, Alaska",53.914796,-166.788006
+MTBL,"Table Top, Makushin Volcano, Alaska",53.968,-166.6813
+N20K,"Chakachatna River, Mount Spurr, AK, USA",61.2001,-152.2089
+N25K,"Chitina, Valdez-Cordova, AK, USA",61.6061,-144.5982
+NCG,"North Capps Glacier, Mount Spurr, Alaska",61.4031,-152.159
+NCT,"North Crescent, Redoubt Volcano, Alaska",60.5621,-152.9293
+OKAK,"Cape Aslik 2, Okmok Caldera, Alaska",53.4113,-168.36
+OKAS,"Cape Aslik, Okmok Caldera, Alaska",53.4043,-168.3634
+OKBR,"Big Rock, Okmok Caldera, Alaska",53.41915,-168.07471
+OKCB,"New Cone D, Okmok Caldera, Alaska",53.4559,-168.1257
+OKCD,"Cone D, Okmok Caldera, Alaska",53.4293,-168.1143
+OKCE,"Cone E, Okmok Caldera, Alaska",53.4261,-168.16629
+OKCF,"Cone F, Okmok Caldera, Alaska",53.3948,-168.1382
+OKER,"East Rim, Okmok Caldera, Alaska",53.4536,-168.0513
+OKFG,"Magazine Ridge, Fort Glenn, Okmok Caldera, Alaska",53.41078,-167.91141
+OKID,"Mount Idak, Okmok Caldera, Alaska",53.4764,-167.8182
+OKIF,"Okmok Infrasound Array, Umnak Island, Alaska",53.410298,-167.914317
+OKNC,"New Cone D, Okmok Caldera, Alaska",53.4559,-168.12553
+OKNO,"North Ridge, Okmok Caldera, Alaska",53.52769,-168.09396
+OKRE,"Reindeer Point, Okmok Caldera, Alaska",53.5192,-168.1661
+OKSO,"South, Okmok Caldera, Alaska",53.3565,-168.1619
+OKSP,"Steeple Point, Okmok Caldera, Alaska",53.2516,-168.2925
+OKTU,"Mount Tulik, Okmok Caldera, Alaska",53.3829,-168.0431
+OKWE,"Weeping Wall, Okmok Caldera, Alaska",53.4711,-168.2418
+OKWR,"West Rim, Okmok Caldera, Alaska",53.4337,-168.2076
+OPT,"Oil Point, Regional Station, Alaska",59.6526,-153.2321
+P18K,"Big Mountain, AK, USA",59.3922,-155.2292
+P19K,"Oil Pt, AK, USA",59.6524,-153.2319
+PDB,"Pedro Bay, Regional Station, Alaska",59.7841,-154.1917
+PLBL,"Blue Mountain, Mt. Peulik Volcano, Alaska",57.6991,-156.821
+PLK1,"Mt. Peulik Volcano 1, Alaska",57.8012,-156.6093
+PLK2,"Mt. Peulik Volcano 2, Alaska",57.7634,-156.3264
+PLK3,"Mt. Peulik Volcano 3, Alaska",57.688,-156.2695
+PLK4,"Mt. Peulik Volcano 4, Alaska",57.6314,-156.3598
+PLK5,"Mt. Peulik Volcano 5, Alaska",57.997,-156.88
+PLWL,"Whale Mountain, Mt. Peulik Volcano, Alaska",58.0442,-156.3434
+PN7A,"Pavlof North 7A, Pavlof Volcano, Alaska",55.4329,-161.9973
+PS1A,"Pavlof South 1A, Pavlof Volcano, Alaska",55.42002,-161.74385
+PS4A,"Pavlof South 4A, Pavlof Volcano, Alaska",55.34597,-161.85651
+PTHD,"Port Heiden regional site, Aniakchak Volcano, Alaska",56.95167,-158.65016
+PV6,"Pavlof North 6, Pavlof Volcano, Alaska",55.4528,-161.9205
+PV6A,"Pavlof North 6A, Pavlof, Alaska",55.507,-161.9714
+PVV,"Pavlof Volcano, Alaska",55.37316,-161.79199
+Q17K,"Contact Creek, Katmai, AK, USA",58.2637,-155.8865
+Q18K,"Katmai Hardscrabble Creek, AK, USA",58.6484,-155.0086
+Q20K,"Shuyak Island, AK, USA",58.6097,-152.3942
+R17L,"Mt. Peulik Volcano, AVO PLK4, AK, USA",57.6313,-156.3599
+RD01,"Broadband 01, Redoubt, Alaska",60.4885,-152.7031
+RD02,"Broadband 02, Redoubt, Alaska",60.5208,-152.7376
+RD03,"Broadband 03, Redoubt, Alaska",60.4705,-152.8201
+RDDF,"Drift River, Redoubt Volcano, Alaska",60.5912,-152.6883
+RDDR,"Drift River, Redoubt Volcano, Alaska",60.5843,-152.5887
+RDE,"East, Redoubt Volcano, Alaska",60.5869,-152.5925
+RDJH,"Juergen's Hut, Redoubt Volcano, Alaska",60.5905,-152.8058
+RDN,"North, Redoubt Volcano, Alaska",60.5224,-152.7401
+RDSO,"South, Redoubt Volcano, Alaska",60.4536,-152.7453
+RDT,"Redoubt, Redoubt Volcano, Alaska",60.5726,-152.4079
+RDW,"West, Redoubt Volcano, Alaska",60.4821,-152.81
+RDWB,"West Buttress, Redoubt Volcano, Alaska",60.486807,-152.843634
+RED,"Redoubt Volcano, Redoubt Volcano, Alaska",60.4196,-152.7742
+REF,"East Flank, Redoubt Volcano, Alaska",60.4888,-152.694
+RSO,"South, Redoubt Volcano, Alaska",60.4616,-152.756
+S12K,"Black Hills, AK, USA",55.702988,-162.066971
+S14K,"Fog Glacier, AK, USA",56.2848,-159.5532
+SDPI,"Sand Point infrasound array, Unga Island, Alaska",55.3492,-160.4768
+SPBG,"Barrier Glacier, Mount Spurr, Alaska",61.2591,-152.3722
+SPBL,"Spurr Beluga Lake, Mount Spurr, Alaska",61.3764,-151.8947
+SPCG,"Capps Glacier, Mount Spurr, Alaska",61.2913,-152.0228
+SPCL,"Chakachamna Lake, Mount Spurr, Alaska",61.1956,-152.3399
+SPCN,"Chakachatna North, Mount Spurr, Alaska",61.223675,-152.18403
+SPCP,"Crater Peak Broadband, Mount Spurr, Alaska",61.265465,-152.155495
+SPCR,"Chakachatna River, Mount Spurr, Alaska",61.2003,-152.2091
+SPNN,"North Nagishlamina, Mount Spurr, Alaska",61.3662,-152.7012
+SPNW,"Spurr Northwest, Mount Spurr, Alaska",61.3465,-152.6062
+SPU,"Mount Spurr, Mount Spurr, Alaska",61.1811,-152.0566
+SPWE,"Spurr West, Mount Spurr, Alaska",61.27346,-152.559
+SSBA,"Broadband A, Shishaldin Volcano, Alaska",54.771749,-164.12662
+SSLN,"North, Shishaldin Volcano, Alaska",54.811351,-163.998557
+SSLS,"South, Shishaldin Volcano, Alaska",54.70938,-163.99723
+SSLW,"West, Shishaldin Volcano, Alaska",54.7709,-164.1234
+STLK,"Strandline Lake, Mount Spurr Regional Station, Alaska",61.4982,-151.8349
+SYI,"Shuyak Island, Alaska",58.6094,-152.3935
+TACS,"Cape Sajaka, Tanaga Volcano, Alaska",51.8621,-178.1414
+TAFL,"Flats, Tanaga Volcano, Alaska",51.7555,-177.8998
+TAFP,"Falls Point, Tanaga Volcano, Alaska",51.899,-177.9853
+TANO,"North, Tanaga Volcano, Alaska",51.9146,-178.1228
+TAPA,"Point Aries, Tanaga Volcano, Alaska",51.8144,-177.8148
+TASE,"Southeast, Tanaga Volcano, Alaska",51.834935,-178.03717
+TASO,"South, Tanaga Volcano, Alaska",51.85355,-178.1453
+VNBL,"Black Lake, Mount Veniaminof, Alaska",56.30434,-159.2077
+VNCG,"Cone Glacier, Mount Veniaminof, Alaska",56.20186,-159.48344
+VNFG,"Fog Glacier, Mount Veniaminof, Alaska",56.2849,-159.5532
+VNHG,"Harpoon Glacier,Mount Veniaminof, Alaska",56.2203,-159.1663
+VNKR,"Kametolook River, Mount Veniaminof, Alaska",56.032021,-159.36805
+VNNF,"North Flank, Mount Veniaminof, Alaska",56.2829,-159.3181
+VNSG,"Slim Glacier, Mount Veniaminof, Alaska",56.125,-159.0875
+VNSO,"South, Mount Veniaminof, Alaska",56.081522,-159.264433
+VNSS,"Summit, Mount Veniaminof, Alaska",56.2259,-159.4569
+VNSW,"Southwest, Mount Veniaminof, Alaska",56.07137,-159.56071
+VNWF,"West Flank, Mount Veniaminof, Alaska",56.1509,-159.5643
+WACK,"Chichokna Glacier, Mount Wrangell, Alaska",61.9858,-144.3305
+WANC,"Wrangell North Crater,Mount Wrangell, Alaska",62.0027,-144.072
+WASW,"Wrangell Southwest, Mount Wrangell, Alaska",61.9277,-144.1745
+WAZA,"Zanetti, Mount Wrangell, Alaska",62.0746,-144.1544
+WEBT,"Beartrack Creek, Westdahl Peak, Alaska",54.5902,-164.755
+WECS,"Cape Sarichef, Westdahl Peak, Alaska",54.53,-164.7796
+WESE,"Southeast, Westdahl Peak, Alaska",54.4723,-164.586
+WESN,"South, Westdahl Peak, Alaska",54.57184,-164.58054
+WESP,"Westdahl Peak, Westdahl Peak, Alaska",54.492371,-164.723326
+WESS,"Westdahl South, Westdahl Peak, Alaska",54.4796,-164.7242
+WFAR,"Westdahl Faris Peak, Alaska",54.5329,-164.7781
+WHTR,"Whittier infrasound array, Whittier, Alaska",60.77968,-148.72701
+WPOG,"Westdahl Pogromni, Alaska",54.5964,-164.7454
+WTUG,"Tugamak, Westdahl Peak, Alaska",54.8466,-164.3873
+ZRO,"Zero, Akutan Volcano, Alaska",54.09163,-165.97798
