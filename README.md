@@ -68,7 +68,7 @@ SeismicStorms.py depends on the following:
 
 ## Caveats
 
-The user doesn't have control over the time plotted, which is a serious limitation. Attempts to address this can be made with feature requests.
+The user doesn't have control over the time plotted. Attempts to address this can be made with feature requests.
 
 This code will only run in systems connected to the AEC database using Antelope
 
